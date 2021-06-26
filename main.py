@@ -114,7 +114,7 @@ email_label.grid(column=0, row=2)
 
 email_entry = tkinter.Entry(width=51)
 email_entry.grid(column=1, row=2, columnspan=2)
-email_entry.insert(0, "alexvaloshka@gmail.com")
+email_entry.insert(0, "enter your email")
 
 
 # Password
